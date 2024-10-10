@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "7722936075",
+    "project_id": "venusdelivery-ac09e",
+    "storage_bucket": "venusdelivery-ac09e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7722936075:android:47d8969dd73026ed47240e",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_venus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1oJepO--4PSHrcOyQvEWMaHHn172S9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7722936075:android:85e67ebb272ac0bf47240e",
+        "android_client_info": {
+          "package_name": "com.example.venus_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW1oJepO--4PSHrcOyQvEWMaHHn172S9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
